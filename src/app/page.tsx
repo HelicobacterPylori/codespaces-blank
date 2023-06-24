@@ -8,6 +8,11 @@ export default function Home() {
           Hello,world!!!
         </p>
       </div>
+      <div className="bg-green-300 text-xl m-1">
+        <p>
+          foo, bar
+        </p>
+      </div>
     </main>
   )
 }
