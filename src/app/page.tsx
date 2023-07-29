@@ -9,8 +9,8 @@ export default function Home() {
       <div className="bg-green-300 text-xl m-1">
         <p>foo, bar</p>
       </div>
-      <div>
-        <p>Hello,world!!!</p>
+      <div className="bg-red-300 text-xl m-1">
+        <p>Goodby</p>
       </div>
     </main>
   );
